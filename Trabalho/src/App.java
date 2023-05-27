@@ -8,7 +8,6 @@ import enuns.TpVeicuEnum;
 import garagem.Garagem;
 import moto.Moto;
 import pessoa.Pessoa;
-import veiculo.Veiculo;
 
 public class App {
     public static void main(String[] args) throws Exception {
